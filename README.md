@@ -82,16 +82,13 @@ studydash/
 ```
 ---
 
-## 🤝 Contributing
+## 🤝 My Contributions & Impact
 
-Contributions are welcome!  
-To contribute:
+As part of the web development team for this project, I focused on optimizing user engagement and application flow. My core contributions include:
 
-1. Fork the repo  
-2. Create a new branch (`feature/your-feature`)  
-3. Commit your changes  
-4. Push to your fork  
-5. Open a Pull Request  
+* **Dashboard Optimization:** Revamped the main dashboard section to improve features, UI layout, and responsive design components.
+* **Planner Enhancements:** Enhanced the logic and interface of the planner module, making it more intuitive for users to organize tasks/schedules seamlessly.
+* **Full-Stack Support:** Provided crucial help across the codebase, debugging front-end components.
 
 ---
 
