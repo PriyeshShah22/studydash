@@ -82,7 +82,7 @@ studydash/
 ```
 ---
 
-## 🤝 My Contributions & Impact
+## 🤝 My Contributions & Impact (Priyesh Shah)
 
 As part of the web development team for this project, I focused on optimizing user engagement and application flow. My core contributions include:
 
